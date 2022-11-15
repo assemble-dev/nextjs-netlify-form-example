@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This is an example site for configuring a working contact form with NextJS and Netlify without writing any server-side code. This contact page features a contact form, a confirmation screen upon submission, enhanced spam detection and custom subject field.
 
+
+
 ## 💫 Deploy on Netlify
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/M0nica/nextjs-netlify-form-example)
